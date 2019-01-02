@@ -9,7 +9,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/webapi1/webapi1.csproj"
+                "${workspaceFolder}/src/OrderService/OrderService.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

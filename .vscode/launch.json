@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/src/webapi1/bin/Debug/netcoreapp2.2/webapi1.dll",
+            "program": "${workspaceFolder}/src/OrderService/bin/Debug/netcoreapp2.2/OrderService.dll",
             "args": [],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/src/OrderService/",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {

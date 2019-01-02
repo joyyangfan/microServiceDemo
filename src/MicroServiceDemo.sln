@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi1", "webapi1\webapi1.csproj", "{5DC680A8-BDEE-4D9E-9BC8-8AA64B207D3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "webapi1\OrderService.csproj", "{5DC680A8-BDEE-4D9E-9BC8-8AA64B207D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi2", "webapi2\webapi2.csproj", "{E4AA179B-544D-4252-8478-7AA92735BCD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +32,17 @@ Global
 		{5DC680A8-BDEE-4D9E-9BC8-8AA64B207D3F}.Release|x64.Build.0 = Release|Any CPU
 		{5DC680A8-BDEE-4D9E-9BC8-8AA64B207D3F}.Release|x86.ActiveCfg = Release|Any CPU
 		{5DC680A8-BDEE-4D9E-9BC8-8AA64B207D3F}.Release|x86.Build.0 = Release|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Debug|x64.Build.0 = Debug|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Debug|x86.Build.0 = Debug|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Release|x64.ActiveCfg = Release|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Release|x64.Build.0 = Release|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Release|x86.ActiveCfg = Release|Any CPU
+		{E4AA179B-544D-4252-8478-7AA92735BCD2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
